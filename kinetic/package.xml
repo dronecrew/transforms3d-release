@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <name>transforms3d</name>
+  <version>:{version}</version>
+  <description>The foo package</description>
+
+  <maintainer email="james.goppert@gmail.com">user</maintainer>
+  <license>BSD</license>
+
+  <run_depend>catkin</run_depend>
+  <buildtool_depend>cmake</buildtool_depend>
+  <build_depend>boost</build_depend>
+  <run_depend>boost</run_depend>
+
+  <export>
+    <build_type>python</build_type>
+  </export>
+</package>

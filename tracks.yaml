@@ -14,11 +14,11 @@ tracks:
       :{release_inc}
     devel_branch: null
     name: https://github.com/matthew-brett/transforms3d
-    patches: null
+    patches: kinetic
     release_inc: -1
     release_repo_url: null
     release_tag: :{version}
     ros_distro: kinetic
     vcs_type: git
     vcs_uri: null
-    version: :{auto}
+    version: :{ask}
