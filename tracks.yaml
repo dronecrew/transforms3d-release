@@ -17,7 +17,7 @@ tracks:
     patches: kinetic
     release_inc: -1
     release_repo_url: https://github.com/dronecrew/transforms3d-release.git
-    release_tag: :{version}
+    release_tag: :{ask}
     ros_distro: kinetic
     vcs_type: git
     vcs_uri: https://github.com/matthew-brett/transforms3d
