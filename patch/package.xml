@@ -13,6 +13,6 @@
   <run_depend>boost</run_depend>
 
   <export>
-    <build_type>cmake</build_type>
+    <build_type>catkin</build_type>
   </export>
 </package>
