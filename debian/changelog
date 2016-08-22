@@ -1,0 +1,25 @@
+ros-kinetic-transforms3d (0.3.1-0wily) wily; urgency=high
+
+  * Fix patch.
+  * Contributors: James Goppert
+
+ -- jgoppert <james.goppert@gmail.com>  Sun, 21 Aug 2016 04:00:00 -0000
+
+ros-kinetic-transforms3d (0.0.2-0wily) wily; urgency=high
+
+  * Change log update.
+  * Contributors: James Goppert
+
+ -- jgoppert <james.goppert@gmail.com>  Mon, 22 Aug 2016 03:35:00 -0000
+
+ros-kinetic-transforms3d (0.0.1-0wily) wily; urgency=high
+
+  * Changed version.
+  * Updated build type.
+  * Added changelog.
+  * Add cmake file.
+  * Contributors: James Goppert
+
+ -- jgoppert <james.goppert@gmail.com>  Mon, 22 Aug 2016 03:33:00 -0000
+
+
