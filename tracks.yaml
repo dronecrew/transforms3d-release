@@ -15,7 +15,7 @@ tracks:
     devel_branch: null
     last_version: 0.3.0
     name: upstream
-    patches: kinetic
+    patches: patch
     release_inc: '0'
     release_repo_url: https://github.com/dronecrew/transforms3d-release.git
     release_tag: :{ask}

@@ -2,9 +2,9 @@
 <package>
   <name>transforms3d</name>
   <version>:{version}</version>
-  <description>The foo package</description>
+  <description>3D transformations library</description>
 
-  <maintainer email="james.goppert@gmail.com">user</maintainer>
+  <maintainer email="james.goppert@gmail.com">jgoppert</maintainer>
   <license>BSD</license>
 
   <run_depend>catkin</run_depend>
@@ -13,6 +13,6 @@
   <run_depend>boost</run_depend>
 
   <export>
-    <build_type>python</build_type>
+    <build_type>cmake</build_type>
   </export>
 </package>
