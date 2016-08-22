@@ -16,7 +16,7 @@ tracks:
     last_version: 0.3.0
     name: upstream
     patches: patch
-    release_inc: '0'
+    release_inc: '3'
     release_repo_url: https://github.com/dronecrew/transforms3d-release.git
     release_tag: :{ask}
     ros_distro: kinetic
