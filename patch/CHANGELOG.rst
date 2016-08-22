@@ -2,8 +2,8 @@
 Changelog for package transforms3d
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.1 (2016-08-21)
+------------------
 * Fix patch.
 * Contributors: James Goppert
 
